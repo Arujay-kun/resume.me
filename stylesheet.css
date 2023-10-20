@@ -1,0 +1,33 @@
+/* stylesheet.css */
+html{
+   background-image: url('image.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.bi{
+   font-style:italic, bold;
+}
+
+img{
+   align-items: center;
+   width: 250px;
+   height: 250px;
+   padding: 60px;
+   bottom: 11px;
+   top: 10px;
+   right: 10px;
+   position: absolute;
+
+}
+ul{
+   font-style: italic, bold;
+}
+
